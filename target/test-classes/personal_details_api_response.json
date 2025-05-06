@@ -1,0 +1,14 @@
+[
+  {
+    "id":1,
+    "fatherName": "Vijay",
+    "fatherContactNumber": "1234567890",
+    "motherName": "manisha",
+    "currentAddress": "indore",
+    "permanentAddress": "indore",
+    "personalMailId": "chetan@gmail.com",
+    "personalContactNumber": "1234567899",
+    "aadharNumber": 123456782332,
+    "panNumber": "hfbv2432j"
+  }
+]
